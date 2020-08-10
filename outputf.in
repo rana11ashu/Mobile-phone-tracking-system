@@ -1,0 +1,150 @@
+addExchange 0 1
+addExchange 0 2
+addExchange 0 3
+addExchange 0 4
+addExchange 1 5
+addExchange 1 6
+addExchange 1 7
+addExchange 2 8
+addExchange 3 9
+addExchange 3 10
+addExchange 4 11
+addExchange 4 12
+addExchange 4 13
+switchOnMobile 910 5
+switchOnMobile 911 5
+switchOnMobile 912 5
+switchOnMobile 913 6
+switchOnMobile 914 7
+switchOnMobile 915 7
+switchOnMobile 916 8
+switchOnMobile 917 9
+switchOnMobile 918 10
+switchOnMobile 919 10
+switchOnMobile 920 11
+switchOnMobile 921 12
+switchOnMobile 922 13
+switchOnMobile 923 13
+switchOnMobile 924 13
+queryMobilePhoneSet 0: 910 911 912 913 914 915 916 917 918 919 920 921 922 923 924 
+queryMobilePhoneSet 1: 910 911 912 913 914 915 
+queryMobilePhoneSet 2: 916 
+queryMobilePhoneSet 3: 917 918 919 
+queryMobilePhoneSet 4: 920 921 922 923 924 
+queryMobilePhoneSet 5: 910 911 912 
+queryMobilePhoneSet 6: 913 
+queryMobilePhoneSet 7: 914 915 
+queryMobilePhoneSet 8: 916 
+queryMobilePhoneSet 9: 917 
+queryMobilePhoneSet 10: 918 919 
+queryMobilePhoneSet 11: 920 
+queryMobilePhoneSet 12: 921 
+queryMobilePhoneSet 13: 922 923 924 
+Query Exchange does not exist
+switchOffMobile 912
+switchOffMobile 914
+switchOffMobile 918
+switchOffMobile 922
+Input number 199 do not exist
+queryNthChild 0 0: 1
+queryNthChild 0 1: 1
+queryNthChild 0 2: 2
+queryNthChild 0 3: 2
+queryNthChild 0 4: 3
+queryNthChild 3 1: 9
+queryNthChild 4 2: 12
+findPhone 910: 5
+findPhone 911: 5
+Phone is switched off
+findPhone 913: 6
+Phone is switched off
+findPhone 915: 7
+findPhone 916: 8
+findPhone 917: 9
+Phone is switched off
+findPhone 919: 10
+findPhone 920: 11
+findPhone 921: 12
+Phone is switched off
+findPhone 923: 13
+findPhone 924: 13
+No such phone exist
+movePhone 911 6
+movePhone 923 11
+Exchange/Phone Combination do not exist
+queryMobilePhoneSet 5: 910 
+queryMobilePhoneSet 6: 913 911 
+queryMobilePhoneSet 7: 915 
+queryMobilePhoneSet 8: 916 
+queryMobilePhoneSet 9: 917 
+queryMobilePhoneSet 10: 919 
+queryMobilePhoneSet 11: 920 923 
+queryMobilePhoneSet 12: 921 
+queryMobilePhoneSet 13: 924 
+lowestRouter 5 8: 0
+lowestRouter 1 2: 0
+lowestRouter 1 4: 0
+lowestRouter 11 12: 4
+lowestRouter 6 7: 1
+lowestRouter 6 11: 0
+lowestRouter 9 10: 3
+lowestRouter 8 12: 0
+Mobile Phone is switched off
+Number do not exist
+findCallPath 910 924: 5 1 0 13 4 
+findCallPath 913 920: 6 1 0 11 4 
+findCallPath 910 913: 5 1 6 
+findCallPath 910 917: 5 1 0 9 3 
+Mobile Phone is switched off
+Mobile Phone is switched off
+findCallPath 919 917: 10 3 9 
+findCallPath 913 915: 6 1 7 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

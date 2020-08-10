@@ -1,0 +1,101 @@
+addExchange 0 1
+addExchange 0 2
+addExchange 0 3
+addExchange 0 4
+addExchange 1 5
+addExchange 1 6
+addExchange 1 7
+addExchange 2 8
+addExchange 3 9
+addExchange 3 10
+addExchange 4 11
+addExchange 4 12
+addExchange 4 13
+switchOnMobile 910 5
+switchOnMobile 911 5
+switchOnMobile 912 5
+switchOnMobile 913 6
+switchOnMobile 914 7
+switchOnMobile 915 7
+switchOnMobile 916 8
+switchOnMobile 917 9
+switchOnMobile 918 10
+switchOnMobile 919 10
+switchOnMobile 920 11
+switchOnMobile 921 12
+switchOnMobile 922 13
+switchOnMobile 923 13
+switchOnMobile 924 13
+queryMobilePhoneSet 0
+queryMobilePhoneSet 1
+queryMobilePhoneSet 2
+queryMobilePhoneSet 3
+queryMobilePhoneSet 4
+queryMobilePhoneSet 5
+queryMobilePhoneSet 6
+queryMobilePhoneSet 7
+queryMobilePhoneSet 8
+queryMobilePhoneSet 9
+queryMobilePhoneSet 10
+queryMobilePhoneSet 11
+queryMobilePhoneSet 12
+queryMobilePhoneSet 13
+queryMobilePhoneSet 25
+switchOffMobile 912
+switchOffMobile 914
+switchOffMobile 918
+switchOffMobile 922
+switchOffMobile 199
+queryNthChild 0 0
+queryNthChild 0 1
+queryNthChild 0 2
+queryNthChild 0 3
+queryNthChild 0 4
+queryNthChild 3 1
+queryNthChild 4 2
+findPhone 910
+findPhone 911
+findPhone 912
+findPhone 913
+findPhone 914
+findPhone 915
+findPhone 916
+findPhone 917
+findPhone 918
+findPhone 919
+findPhone 920
+findPhone 921
+findPhone 922
+findPhone 923
+findPhone 924
+findPhone 925
+movePhone 911 6
+movePhone 923 11
+movePhone 925 6
+queryMobilePhoneSet 5
+queryMobilePhoneSet 6
+queryMobilePhoneSet 7
+queryMobilePhoneSet 8
+queryMobilePhoneSet 9
+queryMobilePhoneSet 10
+queryMobilePhoneSet 11
+queryMobilePhoneSet 12
+queryMobilePhoneSet 13
+lowestRouter 5 8
+lowestRouter 1 2
+lowestRouter 1 4
+lowestRouter 11 12
+lowestRouter 6 7
+lowestRouter 6 11
+lowestRouter 9 10
+lowestRouter 8 12
+findCallPath 910 912
+findCallPath 910 125
+findCallPath 910 924
+findCallPath 913 920
+findCallPath 910 913
+findCallPath 910 917
+findCallPath 922 913
+findCallPath 918 912
+findCallPath 919 917
+findCallPath 913 915
